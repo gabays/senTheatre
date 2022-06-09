@@ -1575,7 +1575,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 1574,visuel,positive,0,0,0,0,0,0
 1575,vitrer,positive,0,0,0,0,0,0
 1576,vif,negative,0,1,0,0,1,1
-1577,v?u,positive,0,0,0,0,0,0
+1577,vœu,positive,0,0,0,0,0,0
 1578,voisin,positive,0,0,0,0,0,0
 1579,voleur,negative,0,1,1,1,1,1
 1580,voluptueux,positive,0,0,0,0,0,0
@@ -1594,7 +1594,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 1593,à carreau,positive,0,0,0,0,0,0
 1594,à clou,negative,0,0,0,0,0,0
 1595,à condition que,positive,0,0,0,0,0,0
-1596,à contrec?ur,negative,0,1,1,1,0,1
+1596,à contrecœur,negative,0,1,1,1,0,1
 1597,à côte,negative,0,0,0,0,0,1
 1598,à cru,positive,0,0,0,0,0,0
 1599,à dessein,positive,0,0,0,0,0,0
@@ -2034,7 +2034,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 2033,ambre,positive,0,0,0,0,0,0
 2034,ambrer,positive,0,0,0,0,0,0
 2035,ambulance,negative,0,1,1,0,0,0
-2036,âme s?ur,positive,0,1,0,0,0,0
+2036,âme sœur,positive,0,1,0,0,0,0
 2037,améliorant,positive,0,0,0,0,0,0
 2038,améliorer,positive,0,0,0,0,0,0
 2039,amen,positive,0,0,0,0,0,0
@@ -2543,7 +2543,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 2542,auvent,positive,0,0,0,0,0,0
 2543,au herbe,positive,0,0,0,0,0,0
 2544,au idée arrêté,negative,0,0,0,1,0,0
-2545,au m?urs léger,negative,0,0,0,0,0,1
+2545,au mœurs léger,negative,0,0,0,0,0,1
 2546,au multiple fonction,positive,0,0,0,0,0,0
 2547,au pomme,positive,0,0,0,0,0,0
 2548,aval,positive,0,0,0,0,0,0
@@ -2694,7 +2694,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 2693,bande vidéo,positive,0,0,0,0,0,0
 2694,bande annonce,positive,0,0,0,0,0,0
 2695,bander,positive,0,0,0,0,0,0
-2696,bander le ?il,negative,0,1,0,0,1,0
+2696,bander le œil,negative,0,1,0,0,1,0
 2697,banderole,positive,0,0,0,0,0,0
 2698,bandit,negative,0,1,0,0,0,1
 2699,banjo,positive,0,0,0,0,0,0
@@ -3493,7 +3493,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 3492,chant,positive,0,0,0,1,1,0
 3493,chant de noël,positive,0,0,0,0,0,0
 3494,chantage,negative,0,1,0,1,0,0
-3495,chanter en ch?ur,positive,1,0,0,0,0,0
+3495,chanter en chœur,positive,1,0,0,0,0,0
 3496,chanvre,positive,0,0,0,0,0,0
 3497,chaos,negative,0,1,1,1,0,0
 3498,chapeau,positive,0,0,0,0,0,0
@@ -3619,7 +3619,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 3618,choc,negative,0,1,0,1,1,0
 3619,chochotte,negative,0,1,0,0,0,1
 3620,chocolat,positive,0,0,0,0,0,0
-3621,ch?ur,positive,0,0,0,0,0,0
+3621,chœur,positive,0,0,0,0,0,0
 3622,choisir,positive,0,0,0,0,0,0
 3623,choix,positive,0,0,0,0,0,0
 3624,choléra,negative,0,1,1,0,0,1
@@ -3726,8 +3726,8 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 3725,clergé,positive,0,0,0,0,0,0
 3726,clic,positive,0,0,0,0,1,0
 3727,clientèle,positive,0,0,0,0,0,0
-3728,clignement du ?il,positive,0,0,0,0,0,0
-3729,cligner du ?il,positive,0,0,0,0,0,0
+3728,clignement du œil,positive,0,0,0,0,0,0
+3729,cligner du œil,positive,0,0,0,0,0,0
 3730,clignotant,negative,0,0,0,0,1,0
 3731,clignoter,positive,0,0,0,0,0,0
 3732,climat,positive,0,0,0,0,0,0
@@ -3776,7 +3776,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 3775,codifier,positive,0,0,0,0,0,0
 3776,coefficient,positive,0,0,0,0,0,0
 3777,coercition,negative,0,1,1,1,0,1
-3778,c?ur,positive,0,0,0,0,0,0
+3778,cœur,positive,0,0,0,0,0,0
 3779,coexister,positive,0,0,0,0,0,0
 3780,coexistence,positive,0,0,0,0,0,0
 3781,coffre,negative,0,1,1,0,0,0
@@ -4568,7 +4568,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 4567,de baptême,positive,1,0,0,0,0,0
 4568,de base,positive,0,0,0,0,0,0
 4569,de bon augure,positive,1,0,0,0,0,0
-4570,de bon c?ur,positive,1,0,0,0,0,0
+4570,de bon cœur,positive,1,0,0,0,0,0
 4571,de bon goût,positive,0,0,0,0,0,0
 4572,de bureau,positive,0,0,0,0,0,0
 4573,de cabaret,positive,0,0,0,0,1,0
@@ -5456,9 +5456,9 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 5455,écloper,negative,0,0,1,0,0,0
 5456,éclore,positive,0,0,0,0,0,0
 5457,écluse,positive,0,0,0,0,0,0
-5458,éc?urer,negative,0,1,1,1,0,1
-5459,éc?urant,negative,0,1,1,1,0,1
-5460,éc?urement,negative,0,1,1,1,0,1
+5458,écœurer,negative,0,1,1,1,0,1
+5459,écœurant,negative,0,1,1,1,0,1
+5460,écœurement,negative,0,1,1,1,0,1
 5461,école,positive,0,0,0,0,0,0
 5462,écolier,positive,0,0,0,0,0,0
 5463,écologique,positive,0,0,0,0,0,0
@@ -7362,7 +7362,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 7362,hausser,positive,0,0,0,0,0,0
 7363,hausser le épaule,negative,0,0,0,0,0,0
 7364,haut et fort,negative,0,0,0,1,0,0
-7365,haut le c?ur,negative,0,0,0,0,0,1
+7365,haut le cœur,negative,0,0,0,0,0,1
 7366,haut parleur,positive,0,0,0,0,0,0
 7367,hautain,negative,0,0,0,1,0,1
 7368,hautbois,positive,0,0,0,0,0,0
@@ -8251,7 +8251,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 8251,jeÃ»ne,negative,0,0,1,0,0,0
 8252,jean,positive,0,0,0,0,0,0
 8253,jeep,positive,0,0,0,0,0,0
-8254,jeter un coup d ?il,positive,0,0,0,0,0,0
+8254,jeter un coup d œil,positive,0,0,0,0,0,0
 8255,jeter du détritus,negative,0,0,0,0,0,1
 8256,jeter du ordure,negative,0,0,0,0,0,1
 8257,jeton,positive,0,0,0,0,0,0
@@ -8486,7 +8486,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 8486,lentille,positive,0,0,0,0,0,0
 8487,léopard,negative,0,1,0,0,0,0
 8488,lèpre,negative,0,1,1,0,0,1
-8489,le ?il bandé,negative,0,1,0,0,0,0
+8489,le œil bandé,negative,0,1,0,0,0,0
 8490,lesbianisme,negative,0,0,0,0,0,0
 8491,lesbien,negative,0,1,1,0,0,1
 8492,lésiner,negative,0,1,1,0,0,0
@@ -8816,8 +8816,8 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 8816,manivelle,negative,0,0,0,1,0,0
 8817,manne,positive,1,0,0,0,0,0
 8818,mannequin,negative,0,0,0,0,0,1
-8819,man?uvrer,positive,0,0,0,0,0,0
-8820,man?uvre,positive,0,0,0,0,0,0
+8819,manœuvrer,positive,0,0,0,0,0,0
+8820,manœuvre,positive,0,0,0,0,0,0
 8821,manoir,negative,0,1,0,0,0,0
 8822,manquer,negative,0,1,1,0,0,0
 8823,manquer de,negative,0,0,1,0,0,0
@@ -8844,7 +8844,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 8844,maréchal,positive,0,0,0,0,0,0
 8845,maréchal ferrant,positive,0,0,0,0,0,0
 8846,marée,negative,0,1,0,0,0,0
-8847,marge de man?uvre,positive,0,0,0,0,0,0
+8847,marge de manœuvre,positive,0,0,0,0,0,0
 8848,mari tromper,negative,0,0,1,0,0,1
 8849,mariage,positive,0,0,0,0,0,0
 8850,marier,positive,0,0,0,0,0,0
@@ -9169,7 +9169,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 9169,mettre en évidence,positive,0,0,0,0,0,0
 9170,mettre en examen,negative,0,1,0,0,0,0
 9171,mettre en garde,negative,0,1,0,0,0,0
-9172,mettre en ?uvre,positive,0,0,0,0,0,0
+9172,mettre en œuvre,positive,0,0,0,0,0,0
 9173,mettre en tableau x,positive,0,0,0,0,0,0
 9174,misérable,negative,0,0,1,1,0,1
 9175,misérablement,negative,0,0,1,0,0,0
@@ -9496,7 +9496,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 9496,nocturne,negative,0,1,1,0,0,0
 9497,nodulaire,negative,0,1,0,0,0,1
 9498,nodule,negative,0,1,0,0,0,1
-9499,n?ud coulant,positive,0,0,1,0,0,0
+9499,nœud coulant,positive,0,0,1,0,0,0
 9500,noir,negative,0,1,1,1,0,1
 9501,noirceur,negative,0,1,1,0,0,0
 9502,noir|noire,negative,0,1,1,0,0,0
@@ -9675,13 +9675,13 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 9675,odontologie,positive,0,1,0,0,0,0
 9676,odorant,positive,0,0,0,0,0,0
 9677,odorat,negative,0,0,0,1,0,1
-9678,?cuménique,positive,0,0,0,0,0,0
-9679,?il,positive,0,0,0,0,0,0
-9680,?illet,positive,0,0,0,0,0,0
-9681,?uf,positive,0,0,0,0,0,0
-9682,?uf de poisson,negative,0,0,0,0,0,0
-9683,?uvre,positive,0,0,0,0,0,0
-9684,?uvre classique,positive,1,0,0,0,0,0
+9678,œcuménique,positive,0,0,0,0,0,0
+9679,œil,positive,0,0,0,0,0,0
+9680,œillet,positive,0,0,0,0,0,0
+9681,œuf,positive,0,0,0,0,0,0
+9682,œuf de poisson,negative,0,0,0,0,0,0
+9683,œuvre,positive,0,0,0,0,0,0
+9684,œuvre classique,positive,1,0,0,0,0,0
 9685,offenser,negative,0,1,1,1,0,1
 9686,offensant,negative,0,1,1,1,0,1
 9687,offensif,negative,0,0,1,1,0,1
@@ -11505,7 +11505,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 11506,regard,positive,0,0,0,0,0,0
 11507,regard méchant,negative,0,0,0,1,0,1
 11508,regarder,positive,0,0,0,0,0,0
-11509,regarder avec du ?il rond,positive,0,0,0,0,1,0
+11509,regarder avec du œil rond,positive,0,0,0,0,1,0
 11510,regarder bêtement,negative,0,0,0,0,1,0
 11511,regarder bouche bée,negative,0,0,0,0,1,0
 11512,regarder en face,positive,0,0,0,0,0,0
@@ -12104,7 +12104,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 12105,sans borne,positive,0,0,0,0,0,0
 12106,sans bruit,positive,1,0,0,0,0,0
 12107,sans but,negative,0,0,1,0,0,0
-12108,sans c?ur,negative,0,0,1,1,0,1
+12108,sans cœur,negative,0,0,1,1,0,1
 12109,sans conséquence,negative,0,0,1,0,0,0
 12110,sans contrainte,positive,0,0,0,0,0,0
 12111,sans couleur,negative,0,0,1,0,0,0
@@ -12622,7 +12622,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 12623,socialiste,positive,0,1,1,1,0,1
 12624,société,positive,0,0,0,0,0,0
 12625,socle,positive,0,0,0,0,0,0
-12626,s?ur,positive,0,0,0,0,0,0
+12626,sœur,positive,0,0,0,0,0,0
 12627,sofa,positive,0,0,1,0,0,0
 12628,soi dire,negative,0,0,0,0,0,0
 12629,soi même,positive,0,0,0,0,0,0
@@ -13278,7 +13278,7 @@ id,word,polarity,joy,fear,sadness,anger,surprise,disgust
 13279,tétanos,negative,0,1,0,0,0,1
 13280,tête,positive,0,0,0,0,0,0
 13281,tête baisser,negative,0,0,0,1,1,0
-13282,tête de n?ud,negative,0,0,0,1,0,1
+13282,tête de nœud,negative,0,0,0,1,0,1
 13283,tête de puits,positive,0,0,0,0,0,0
 13284,téter,positive,0,0,0,0,0,0
 13285,tétine,positive,0,0,0,0,0,0
